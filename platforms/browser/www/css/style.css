@@ -1,0 +1,9 @@
+body { background-color:white;}
+.container {padding: 20px;}
+#map-outer {height: 600px; padding: 20px; border: 2px solid #CCC; margin-bottom: 20px; background-color:#FFF }
+#map-container { height: 555px; margin: 0 auto; }
+.input-group[class*="col-"] {padding-right: 15px; padding-left: 15px;}
+.u-Hide {display: none !important;}
+@media all and (max-width: 991px) {
+	#map-outer  { height: 650px }
+}
